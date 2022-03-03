@@ -1,1 +1,1 @@
-# akCore-Methods-in-Data-Science
+# Core-Methods-in-Data-Science
